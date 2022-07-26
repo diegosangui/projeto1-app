@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>app_pages</class>
+ <widget class="QStackedWidget" name="app_pages">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>929</width>
+    <height>562</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>StackedWidget</string>
+  </property>
+  <property name="currentIndex">
+   <number>1</number>
+  </property>
+  <widget class="QWidget" name="page1">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="lbl_pg1">
+      <property name="text">
+       <string>PAGINA INICIAL</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="page3">
+   <layout class="QVBoxLayout" name="verticalLayout_3">
+    <item>
+     <widget class="QLabel" name="lbl_pg3">
+      <property name="text">
+       <string>PAGINA 3</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="page2">
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <widget class="QLabel" name="lbl_pg2">
+      <property name="text">
+       <string>PAGINA 2</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
