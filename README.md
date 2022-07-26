@@ -1,6 +1,7 @@
-# projeto1-app
+# Projeto App
 App criado utilizando Python com o objetivo de aprendizagem, através de tutorial no Youtube.
-
+Pyside
+QT Designer
 
 Crédito: Wanderson
 
