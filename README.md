@@ -1,7 +1,5 @@
 # Projeto App
-App criado utilizando Python com o objetivo de aprendizagem, através de tutorial no Youtube.
-Pyside
-QT Designer
+App criado utilizando Python com o objetivo de aprendizagem, através de tutorial no Youtube. Foi utilizado Pyside6 e QT Designer.
 
 Crédito: Wanderson
 
